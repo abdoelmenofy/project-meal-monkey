@@ -64,7 +64,7 @@ class _ResetScreenState extends State<ResetScreen> {
                   child: ElevatedButton(
                     onPressed: () {},
                     child: Text(
-                      'Send',
+                      'send12',
                       style: TextStyle(fontSize: 16.sp),
                     ),
                   ),
